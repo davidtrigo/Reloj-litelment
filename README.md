@@ -1,6 +1,6 @@
 # Calendario Reloj
 
-_Proyecto realizado con LitElement en el curso de programación 'Programación web '_
+_Proyecto realizado con LitElement en el curso de programación 'Programación web fullstack'_
 
 ## Comenzando 🚀
 
@@ -12,17 +12,20 @@ _ _
 
 Lo primero es lo primero, necesitamos instalar node y npm.
 
-```
-Poner enlace de node
-```
 
-```
-npm install npm@latest -g
-```
+ir a [Nodejs](https://nodejs.org/en/) 
 
 
+Verifica la instalación
 
-_Si tenemos eso, procedemos a instalar polymer cli que nos ayuda a crear un elemento personalizado en un proyecto de polymer._
+```
+node –v
+```
+```
+npm –v
+```
+
+_El siguiente paso es proceder a instalar polymer cli que nos ayuda a crear un elemento personalizado en un proyecto de polymer._
 
 ```
 npm install -g polymer-cli
@@ -31,7 +34,7 @@ npm install -g polymer-cli
 ### Instalación 🔧
 
 
-_Para la instalación de las librerias escribir el siguiente comando_
+_Para la instalación de las dependencias escribir el siguiente comando_
 
 ```
 npm install
@@ -41,7 +44,7 @@ npm install
 ## Ejecutando la apliación ⚙️
 
 
-_Podemos ejecutar nuestro proyecto y servirlo simplemente como:_
+_Para ejecutar el proyecto escribir:_
 
 ```
 polymer serve
@@ -49,12 +52,9 @@ polymer serve
 
 ## Construido con 🛠️
 
-* [LitElelement](https://lit-element.polymer-project.org/) - El framework web usado
-
+* [LitElelement](https://lit-element.polymer-project.org/) - El framework usado
+* [Node](https://nodejs.org/en/) - Nodejs
 
 ## Autor ✒️
 
 * **David Trigo** - [davidtrigo](https://github.com/davidtrigo)
-
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
