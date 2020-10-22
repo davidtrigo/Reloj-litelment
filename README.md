@@ -8,22 +8,22 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 ### Pre-requisitos 📋
 
-_ _
 
-Lo primero es lo primero, necesitamos instalar node y npm.
+Paso 1: Descarga el instalador de Nodejs en [Nodejs.org](https://nodejs.org/en/) 
+Paso 2: Instale Node.js y NPM desde el navegador
+Paso 3: verificar la instalación
 
-
-ir a [Nodejs](https://nodejs.org/en/) 
-
-
-Verifica la instalación
+Abra un símbolo del sistema (o PowerShell) e ingrese lo siguiente:
 
 ```
 node –v
 ```
+El sistema debería mostrar la versión de Node.js instalada en su sistema. Puede hacer lo mismo con NPM:
 ```
 npm –v
 ```
+
+Si por el contrario quiere actualizar npm siga [aquí](https://phoenixnap.com/kb/update-node-js-version/) las instrucciones
 
 _El siguiente paso es proceder a instalar polymer cli que nos ayuda a crear un elemento personalizado en un proyecto de polymer._
 
